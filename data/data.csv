@@ -1,0 +1,3 @@
+event_id, event_type, event_location, event_status, recent_tweets, relevent_hashtags, is_active
+4124,test1 ,"Berlin, Germany",earthquake,1487779404969578503,#pro,yes
+51234,test2,Singapore,earthquake,1487754370301448192,#notpro,no

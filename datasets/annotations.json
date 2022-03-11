@@ -1,0 +1,1319 @@
+{
+    "classes": [
+        "EVENT",
+        "LOCATION",
+        "STATUS ",
+        "TIME"
+    ],
+    "annotations": [
+        [
+            "How the West was burned: Thousands of wildfires ablaze in #California alone http://t.co/iCSjGZ9tE1 #climate #energy http://t.co/9FxmN0l0Bd\r",
+            {
+                "entities": [
+                    [
+                        38,
+                        47,
+                        "EVENT"
+                    ],
+                    [
+                        59,
+                        69,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Reported motor vehicle accident in Curry on Herman Rd near Stephenson involving an overturned vehicle. Please use... http://t.co/YbJezKuRW1\r",
+            {
+                "entities": [
+                    [
+                        15,
+                        31,
+                        "EVENT"
+                    ],
+                    [
+                        44,
+                        69,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Experts in France begin examining airplane debris found on Reunion Island: French air accident experts o... http://t.co/YVVPznZmXg #news\r",
+            {
+                "entities": [
+                    [
+                        11,
+                        17,
+                        "LOCATION"
+                    ],
+                    [
+                        59,
+                        74,
+                        "LOCATION"
+                    ],
+                    [
+                        86,
+                        94,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "ISIL claims suicide bombing at Saudi mosque that killed at least 15 http://t.co/Y8IcF89H6w http://t.co/t9MSnZV1Kb\r",
+            {
+                "entities": [
+                    [
+                        12,
+                        27,
+                        "EVENT"
+                    ],
+                    [
+                        31,
+                        36,
+                        "LOCATION"
+                    ],
+                    [
+                        56,
+                        67,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/5qYcZyWKgG\r",
+            {
+                "entities": [
+                    [
+                        10,
+                        21,
+                        "EVENT"
+                    ],
+                    [
+                        33,
+                        49,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Men escape car engulfed in flames in Parley's Canyon crews investigating cause - http://t.co/P6cyLz5lpt http://t.co/Jpu9gIps9f\r",
+            {
+                "entities": [
+                    [
+                        27,
+                        33,
+                        "EVENT"
+                    ],
+                    [
+                        37,
+                        52,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Just saw a car on the I-77 Fully engulfed in flames hahah\r",
+            {
+                "entities": [
+                    [
+                        22,
+                        26,
+                        "LOCATION"
+                    ],
+                    [
+                        45,
+                        51,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1.94 earthquake occurred 5km S of Volcano Hawaii at 01:04 UTC! #earthquake #Volcano http://t.co/auf4J4Owj1\r",
+            {
+                "entities": [
+                    [
+                        5,
+                        15,
+                        "EVENT"
+                    ],
+                    [
+                        25,
+                        48,
+                        "LOCATION"
+                    ],
+                    [
+                        52,
+                        62,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Eruption of Indonesian volcano sparks transport chaos: In this picture done from video Mount Raung inÂ‰Ã›_ http://t.co/7muG2kAhL7 ?\r",
+            {
+                "entities": [
+                    [
+                        23,
+                        30,
+                        "EVENT"
+                    ],
+                    [
+                        87,
+                        98,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Omg earthquake\r",
+            {
+                "entities": [
+                    [
+                        4,
+                        14,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1.3 #Earthquake in 9Km Ssw Of Anza California #iPhone users download the Earthquake app for more information http://t.co/V3aZWOAmzK\r",
+            {
+                "entities": [
+                    [
+                        5,
+                        15,
+                        "EVENT"
+                    ],
+                    [
+                        19,
+                        45,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Our Deeds are the Reason of this #earthquake May ALLAH Forgive us all\r",
+            {
+                "entities": [
+                    [
+                        34,
+                        44,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "5 dead 3 missing 103 families evacuated due to floods in Bukidnon: ... http://t.co/z0hSckvySN\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        39,
+                        "STATUS "
+                    ],
+                    [
+                        47,
+                        53,
+                        "EVENT"
+                    ],
+                    [
+                        57,
+                        65,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Just got evacuated from the movie theatre for an emergency. Saw people running from another they're.\r",
+            {
+                "entities": [
+                    [
+                        28,
+                        41,
+                        "LOCATION"
+                    ],
+                    [
+                        49,
+                        59,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Passengers evacuated &amp; lanes blocked off as power lines come down over a Gold Coast tram @9NewsGoldCoast http://t.co/zZweEezJuG\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        20,
+                        "STATUS "
+                    ],
+                    [
+                        48,
+                        69,
+                        "EVENT"
+                    ],
+                    [
+                        77,
+                        92,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "#WorldNews Fallen powerlines on G:link tram: UPDATE: FIRE crews have evacuated up to 30 passengers who were tr...  http://t.co/EYSVvzA7Qm\r",
+            {
+                "entities": [
+                    [
+                        11,
+                        28,
+                        "EVENT"
+                    ],
+                    [
+                        69,
+                        98,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Govt allocating 1.3 bn for flood action: Issue takes centre stage after fatalities in Veneto http://t.co/w3esX6Ud8t\r",
+            {
+                "entities": [
+                    [
+                        27,
+                        32,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Environment Canada confirms 2nd tornado touched down last weekend Ã¥Ãˆ http://t.co/x8zqbwNfO1\r",
+            {
+                "entities": [
+                    [
+                        12,
+                        18,
+                        "LOCATION"
+                    ],
+                    [
+                        32,
+                        39,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pizza and beer in a tornado in Austin. Windy af right now, probably a tornado\r",
+            {
+                "entities": [
+                    [
+                        20,
+                        27,
+                        "EVENT"
+                    ],
+                    [
+                        31,
+                        38,
+                        "LOCATION"
+                    ],
+                    [
+                        70,
+                        77,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "@Rebelmage2 I'm glad you got away XD But My 'be safe' was in reference to a tornado near calgary and drum heller at around 4 :O\r",
+            {
+                "entities": [
+                    [
+                        76,
+                        83,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Calgary area tornado warnings end as thunderstorms move eastward - CBC.ca: CBC.ca Calgary area tornado warnings endÂ‰Ã›_ http://t.co/ST9jPZ8Y24\r",
+            {
+                "entities": [
+                    [
+                        13,
+                        20,
+                        "EVENT"
+                    ],
+                    [
+                        37,
+                        50,
+                        "EVENT"
+                    ],
+                    [
+                        82,
+                        94,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Rly tragedy in MP: Some live to recount horror: Â‰Ã›ÃWhen I saw coaches of my train plunging into water I called ... http://t.co/vScPGMsJXY\r",
+            {
+                "entities": [
+                    [
+                        85,
+                        104,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Storm batters Auckland and Northland: A violent overnight storm has battered Auckland and Northland uprooting... http://t.co/enrPGRgtTs\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EVENT"
+                    ],
+                    [
+                        14,
+                        22,
+                        "LOCATION"
+                    ],
+                    [
+                        27,
+                        36,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "After a violent afternoon storm more severe weather heads for Chicago tonight. Details ----&gt; http://t.co/6Peeip4y7W\r",
+            {
+                "entities": [
+                    [
+                        26,
+                        31,
+                        "EVENT"
+                    ],
+                    [
+                        62,
+                        69,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "POV footage captures violent landing from inside plane during storm http://t.co/kxewlHH7Uw\r",
+            {
+                "entities": [
+                    [
+                        62,
+                        67,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Storm blitzes Traverse City disrupts Management Briefing Seminars: A violent summer storm blitzed through Tra... http://t.co/NKAW9EZqGg\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This is one violent and belligerent storm. I'm enjoying watching it unfold\r",
+            {
+                "entities": [
+                    [
+                        36,
+                        42,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "A brief violent storm swept through the Chicago area Sunday afternoon leading to one death and an evacuation of Lollapalooza and more\r",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "EVENT"
+                    ],
+                    [
+                        40,
+                        47,
+                        "LOCATION"
+                    ],
+                    [
+                        53,
+                        69,
+                        "TIME"
+                    ],
+                    [
+                        81,
+                        124,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Storm batters top half of North Island: A violent overnight storm has battered the upper North Island uprootin... http://t.co/fHVOkmpheD\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EVENT"
+                    ],
+                    [
+                        14,
+                        38,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "#Sismo M 1.9 - 5km S of Volcano Hawaii: Time2015-08-06 01:04:01 UTC2015-08-05 15:04:01 -10:00 at ep... http://t.co/RTUeTdfBqb #CSismica\r",
+            {
+                "entities": [
+                    [
+                        1,
+                        12,
+                        "EVENT"
+                    ],
+                    [
+                        15,
+                        38,
+                        "LOCATION"
+                    ],
+                    [
+                        40,
+                        93,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "M1.94 [01:04 UTC]?5km S of Volcano Hawaii. http://t.co/zDtoyd8EbJ\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "STATUS "
+                    ],
+                    [
+                        7,
+                        16,
+                        "TIME"
+                    ],
+                    [
+                        18,
+                        42,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Several wild fires have burned a lot of land in California. Here is one of the larger fires. http://t.co/2M1gNeaiFl http://t.co/UQh85MiP0v\r",
+            {
+                "entities": [
+                    [
+                        8,
+                        18,
+                        "EVENT"
+                    ],
+                    [
+                        48,
+                        59,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Collection of Articals and Video of West Coast Wild Fires by @ABC http://t.co/qd3DSSFWUE\r",
+            {
+                "entities": [
+                    [
+                        47,
+                        57,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "As wild fires blacken northern California parched Harris County becomes tinder box.  https://t.co/i2lwTy5YuP\r",
+            {
+                "entities": [
+                    [
+                        3,
+                        13,
+                        "EVENT"
+                    ],
+                    [
+                        22,
+                        41,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Man! What I would give to be in CA right now to help with the wild fires.\r",
+            {
+                "entities": [
+                    [
+                        32,
+                        34,
+                        "LOCATION"
+                    ],
+                    [
+                        62,
+                        72,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "@cnni @PrisonPlanet Climate Change CNN weather 'specialist' warning:wild fires rain flooding noting about the sun? http://t.co/0sZwlWL9qU\r",
+            {
+                "entities": [
+                    [
+                        68,
+                        78,
+                        "EVENT"
+                    ],
+                    [
+                        79,
+                        92,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "@Jennife29916207 I was thinking about you today when I was reading about the wild fires\r",
+            {
+                "entities": [
+                    [
+                        77,
+                        87,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "PRAYERS FOR MY COUSIN! He's in California helping with the wild fires.\r",
+            {
+                "entities": [
+                    [
+                        31,
+                        41,
+                        "LOCATION"
+                    ],
+                    [
+                        59,
+                        70,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In Europe nature is kind while in US they have tornados hurricanes wild fires earthquakes flash floods mega snow droughts.\r",
+            {
+                "entities": [
+                    [
+                        3,
+                        9,
+                        "LOCATION"
+                    ],
+                    [
+                        34,
+                        36,
+                        "LOCATION"
+                    ],
+                    [
+                        47,
+                        55,
+                        "EVENT"
+                    ],
+                    [
+                        56,
+                        66,
+                        "EVENT"
+                    ],
+                    [
+                        67,
+                        77,
+                        "EVENT"
+                    ],
+                    [
+                        78,
+                        89,
+                        "EVENT"
+                    ],
+                    [
+                        90,
+                        102,
+                        "EVENT"
+                    ],
+                    [
+                        108,
+                        121,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Firefighters from Connecticut are headed to California to fight wild fires http://t.co/QWpUxPyWbF http://t.co/8jlXZ6fkxy\r",
+            {
+                "entities": [
+                    [
+                        18,
+                        29,
+                        "LOCATION"
+                    ],
+                    [
+                        44,
+                        54,
+                        "LOCATION"
+                    ],
+                    [
+                        64,
+                        74,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "DEEP crew to help with California wild fires http://t.co/QKz2Sp06xn via @thedayct\r",
+            {
+                "entities": [
+                    [
+                        23,
+                        33,
+                        "LOCATION"
+                    ],
+                    [
+                        34,
+                        44,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Wildfire Burns On California U.s. China Economic Net Â‰Ã›_ : http://t.co/U2dO2mC2ri  http://t.co/3oM3xw6CZ8\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EVENT"
+                    ],
+                    [
+                        18,
+                        28,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "PHOTOS: The Rocky Fire has grown into California's most destructive wildfire this year. http://t.co/h9v4HoWtiP http://t.co/8IcSesHbj3\r",
+            {
+                "entities": [
+                    [
+                        38,
+                        48,
+                        "LOCATION"
+                    ],
+                    [
+                        68,
+                        76,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Wildfire near Columbia River town is 50 percent contained http://t.co/gzGpWSqyMW #FireNews #WA http://t.co/ay49MTYyL8\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EVENT"
+                    ],
+                    [
+                        14,
+                        33,
+                        "LOCATION"
+                    ],
+                    [
+                        37,
+                        57,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "! Residents Return To Destroyed Homes As Washington Wildfire Burns on http://t.co/UcI8stQUg1\r",
+            {
+                "entities": [
+                    [
+                        41,
+                        51,
+                        "LOCATION"
+                    ],
+                    [
+                        52,
+                        60,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "California is battling its scariest 2015 wildfire so far - the Rocky Fire http://t.co/sPT54KfA9Q\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "LOCATION"
+                    ],
+                    [
+                        41,
+                        49,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Solitude Fire Update August 6 2015 (Solitude Wildfire): Summary: This lightning-caused fire is being ... http://t.co/4eSbsA8InT #UTFire\r",
+            {
+                "entities": [
+                    [
+                        21,
+                        34,
+                        "TIME"
+                    ],
+                    [
+                        36,
+                        53,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The Latest: More homes razed by Northern California wildfire - LancasterOnline http://t.co/ph7wllKRfI #Lancaster\r",
+            {
+                "entities": [
+                    [
+                        32,
+                        51,
+                        "LOCATION"
+                    ],
+                    [
+                        52,
+                        60,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Reuters Top News: PHOTOS: The Rocky Fire has grown into California's most ... - http://t.co/qwrRfDGXCc #NewsInTweets http://t.co/sstj2bEpqn\r",
+            {
+                "entities": [
+                    [
+                        36,
+                        40,
+                        "EVENT"
+                    ],
+                    [
+                        56,
+                        66,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "For those impacted by the #CalWildfires here are some great recovery tips to help you in the aftermath http://t.co/wwxbGuBww5\r",
+            {
+                "entities": [
+                    [
+                        27,
+                        39,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Oregon's biggest wildfire slows growth http://t.co/P0GoS5URXG via @katunews\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "LOCATION"
+                    ],
+                    [
+                        17,
+                        25,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The Latest: #Wildfire destroys more homes but crews advance - WQOW TV News 18 http://t.co/Hj26SFDdfI\r",
+            {
+                "entities": [
+                    [
+                        13,
+                        21,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Reality Training: Train falls off elevated tracks during windstorm http://t.co/JIOMnrCygT #Paramedic #EMS\r",
+            {
+                "entities": [
+                    [
+                        57,
+                        66,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Suicide bomber kills 15 in Saudi security site mosque - Reuters via World - Google News - Wall ... http://t.co/nF4IculOje\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EVENT"
+                    ],
+                    [
+                        15,
+                        26,
+                        "STATUS "
+                    ],
+                    [
+                        27,
+                        53,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "#stormchase Violent Record Breaking EF-5 El Reno Oklahoma Tornado Nearly Runs Over ... - http://t.co/3SICroAaNz http://t.co/I27Oa0HISp\r",
+            {
+                "entities": [
+                    [
+                        49,
+                        57,
+                        "LOCATION"
+                    ],
+                    [
+                        58,
+                        65,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Two giant cranes holding a bridge collapse into nearby homes http://t.co/STfMbbZFB5\r",
+            {
+                "entities": [
+                    [
+                        27,
+                        42,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Drought fuels bush fires in Jamaica - http://t.co/ZDtDqQbAHC http://t.co/PsQCNsVfgP - @JamaicaObserver @cnewslive RE https://t.co/6ZGef8J8Bm\r",
+            {
+                "entities": [
+                    [
+                        14,
+                        24,
+                        "EVENT"
+                    ],
+                    [
+                        28,
+                        35,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "So apparently there were bush fires near where I live over the weekend that I was totally oblivious to...\r",
+            {
+                "entities": [
+                    [
+                        25,
+                        35,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "California Bush fires please evacuate affected areas ASAP when california govts advised you to do so http://t.co/ubVEVUuAch\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "LOCATION"
+                    ],
+                    [
+                        11,
+                        21,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Another movie theater attack..close to home this time. Thankful for no casualties. Life will go on because we cannot allow evil to win!\r",
+            {
+                "entities": [
+                    [
+                        8,
+                        35,
+                        "EVENT"
+                    ],
+                    [
+                        68,
+                        82,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "#Nevada's Â‰Ã›Ã·exceptionalÂ‰Ã›Âª #drought steady at ~11%; ~ 95% of #NV in drought: http://t.co/Nyo1xueBFA @DroughtGov http://t.co/w0a1MJOrHY\r",
+            {
+                "entities": [
+                    [
+                        35,
+                        42,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "U.S. in record hurricane drought http://t.co/8JvQI9UspL\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "LOCATION"
+                    ],
+                    [
+                        15,
+                        32,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "w--=-=-=-[ NEMA warns Nigerians to prepare for drought http://t.co/5uoOPhSqU3\r",
+            {
+                "entities": [
+                    [
+                        22,
+                        31,
+                        "LOCATION"
+                    ],
+                    [
+                        47,
+                        54,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Gov. Brown links CA wildfire to drought http://t.co/jEvrCWUdpm\r",
+            {
+                "entities": [
+                    [
+                        17,
+                        19,
+                        "LOCATION"
+                    ],
+                    [
+                        20,
+                        28,
+                        "EVENT"
+                    ],
+                    [
+                        32,
+                        39,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "BLOG: Rain much needed as drought conditions worsen: Right now Charlotte and much of the surrounding area haveÂ‰Ã›_ http://t.co/OLzaVTJFKH\r",
+            {
+                "entities": [
+                    [
+                        26,
+                        33,
+                        "EVENT"
+                    ],
+                    [
+                        63,
+                        72,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "#DroughtMonitor: Moderate or worse #drought ? to ~27% of contig USA; affects ~80M people. http://t.co/YBE9JQoznR http://t.co/328SzflEtZ\r",
+            {
+                "entities": [
+                    [
+                        36,
+                        43,
+                        "EVENT"
+                    ],
+                    [
+                        57,
+                        67,
+                        "LOCATION"
+                    ],
+                    [
+                        77,
+                        89,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "U.S. in record hurricane drought: The United States hasn't been hit by a major hurricane in the past nine years and it seems like thatÂ‰Ã›_\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "LOCATION"
+                    ],
+                    [
+                        15,
+                        32,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "'California's Burning:' Gov. on Drought Wildfires http://t.co/mkqSVp8E0G\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "LOCATION"
+                    ],
+                    [
+                        32,
+                        49,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\"A new tropical cyclone is forming near Guam. Once it is formed it will be called 'Molave'.\"\r",
+            {
+                "entities": [
+                    [
+                        7,
+                        23,
+                        "EVENT"
+                    ],
+                    [
+                        40,
+                        45,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Cyclone Komen devastates families in Myanmar this week. We need to help them today: http://t.co/fCujsIOyQO\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "EVENT"
+                    ],
+                    [
+                        37,
+                        44,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "[Tropical Cyclone Info] SOUDELOR 945hPa maximum wind speed: 45m/s maximum wind gust speed: 60m/s  http://t.co/nBD5oT9iEW\r",
+            {
+                "entities": [
+                    [
+                        1,
+                        17,
+                        "EVENT"
+                    ],
+                    [
+                        48,
+                        65,
+                        "STATUS "
+                    ],
+                    [
+                        79,
+                        96,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "#Rohingya houses in #Kyee NockThie hamlet from Taungbazar region in Buthidaung were severely damaged in Cyclone @KasitaRoch @VivianUNHCR\r",
+            {
+                "entities": [
+                    [
+                        47,
+                        78,
+                        "LOCATION"
+                    ],
+                    [
+                        104,
+                        111,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Flood: Two people dead 60 houses destroyed in Kaduna: Two people have been reportedly killed an... http://t.co/kEE1tyTZ15 #SemasirTalks\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "EVENT"
+                    ],
+                    [
+                        7,
+                        42,
+                        "STATUS "
+                    ],
+                    [
+                        46,
+                        52,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Worried about how the CA drought might affect you? Extreme Weather: Does it Dampen Our Economy? http://t.co/fDzzuMyW8i\r",
+            {
+                "entities": [
+                    [
+                        22,
+                        24,
+                        "LOCATION"
+                    ],
+                    [
+                        25,
+                        32,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "",
+            {
+                "entities": []
+            }
+        ]
+    ]
+}

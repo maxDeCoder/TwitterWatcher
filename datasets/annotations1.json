@@ -1,0 +1,1011 @@
+{
+    "classes": [
+        "EVENT",
+        "LOCATION",
+        "STATUS ",
+        "TIME"
+    ],
+    "annotations": [
+        [
+            "Wow! Flash flood at Taman Mayang. Drainage already spilt over. Can’t see the drain.\r",
+            {
+                "entities": [
+                    [
+                        5,
+                        16,
+                        "EVENT"
+                    ],
+                    [
+                        20,
+                        33,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Earthquake possibly felt 2 min ago in Propinsi Nusa Tenggara\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EVENT"
+                    ],
+                    [
+                        25,
+                        34,
+                        "TIME"
+                    ],
+                    [
+                        38,
+                        60,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Earthquake strikes 29 km south of Mataram, Indonesia\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EVENT"
+                    ],
+                    [
+                        19,
+                        52,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "images from surveillance planes flying over Tonga reveal “catastrophic” and “extensive” damage to villages in low-lying coastal parts of the archipelago. A devastating volcanic eruption and a subsequent tsunami has caused untold devastation\r",
+            {
+                "entities": [
+                    [
+                        44,
+                        49,
+                        "LOCATION"
+                    ],
+                    [
+                        168,
+                        185,
+                        "EVENT"
+                    ],
+                    [
+                        203,
+                        214,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "An earthquake measuring 2.5 on the Richter scale occurred in Lamjung district at 10:34 on Thursday night.\r",
+            {
+                "entities": [
+                    [
+                        3,
+                        13,
+                        "EVENT"
+                    ],
+                    [
+                        24,
+                        48,
+                        "STATUS "
+                    ],
+                    [
+                        61,
+                        77,
+                        "LOCATION"
+                    ],
+                    [
+                        81,
+                        105,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Morning Alarm !! An earthquake of magnitude 5.8 on the Richter scale hit the Lamjung district in Nepal on , leaving at least 9 people injured, 15 houses damage\r",
+            {
+                "entities": [
+                    [
+                        20,
+                        30,
+                        "EVENT"
+                    ],
+                    [
+                        34,
+                        68,
+                        "STATUS "
+                    ],
+                    [
+                        77,
+                        102,
+                        "LOCATION"
+                    ],
+                    [
+                        116,
+                        159,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Earthquake occurred in Bay of Bengal Magnitude of 4.5 on 2:16PM {14:16:27 (IST)}. Depth: 100 Km , 161km South of  Berhampur,  Odisha,  India.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EVENT"
+                    ],
+                    [
+                        23,
+                        36,
+                        "LOCATION"
+                    ],
+                    [
+                        37,
+                        53,
+                        "STATUS "
+                    ],
+                    [
+                        57,
+                        80,
+                        "TIME"
+                    ],
+                    [
+                        98,
+                        141,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Earthquake ( भूकंप) M2.7 strikes 16 km SE of  Almora ( India) 18 min ago.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EVENT"
+                    ],
+                    [
+                        20,
+                        24,
+                        "STATUS "
+                    ],
+                    [
+                        33,
+                        61,
+                        "LOCATION"
+                    ],
+                    [
+                        62,
+                        72,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "a massive  earthquake hits  Gujarat, India. About 20,000 people died and over 160,000 people were injured. It measured 6.9 on the  Richter scale and lasted about 110 seconds.\r",
+            {
+                "entities": [
+                    [
+                        11,
+                        21,
+                        "EVENT"
+                    ],
+                    [
+                        28,
+                        43,
+                        "LOCATION"
+                    ],
+                    [
+                        44,
+                        173,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "M5.4  earthquake on  Myanmar- India Border Region on 21 Jan 2022 at 10:12 UTC recorded by Stations R21C3, RDD06, and UTTH in Bangkok\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        4,
+                        "STATUS "
+                    ],
+                    [
+                        6,
+                        16,
+                        "EVENT"
+                    ],
+                    [
+                        21,
+                        49,
+                        "LOCATION"
+                    ],
+                    [
+                        53,
+                        77,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "An  earthquake ( deprem) happened in  Elazığ,  Turkey 7mins ago at 4:39PM on 21/01/2022 UTC. The earthquake had a magnitude of M3.5 and it was 2km (1.2 miles) deep in the ground. Stay safe!\r",
+            {
+                "entities": [
+                    [
+                        4,
+                        14,
+                        "EVENT"
+                    ],
+                    [
+                        38,
+                        53,
+                        "LOCATION"
+                    ],
+                    [
+                        67,
+                        92,
+                        "TIME"
+                    ],
+                    [
+                        114,
+                        178,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "STRONG EARTHQUAKE: A M6.2  earthquake struck the Fox Islands in  Alaska.\r",
+            {
+                "entities": [
+                    [
+                        7,
+                        17,
+                        "EVENT"
+                    ],
+                    [
+                        21,
+                        25,
+                        "STATUS "
+                    ],
+                    [
+                        49,
+                        71,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "A Very Strong  earthquake occurred in 36 km SSE of Saiki, in  Japan of 6.6 magnitude in Richter at 51 km depth from surface, light shaking observed in southern  Honshu in  hiroshima A  tsunamiwarning issued for  Alaska, Canada &  USA coastline.stay away from beach\r",
+            {
+                "entities": [
+                    [
+                        15,
+                        25,
+                        "EVENT"
+                    ],
+                    [
+                        38,
+                        67,
+                        "LOCATION"
+                    ],
+                    [
+                        71,
+                        123,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "A 4.60 magnitude earthquake has occurred near Mina, Nevada at 2:40pm PST Started a swarm. 10 aftershocks in the last twenty minutes.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        16,
+                        "STATUS "
+                    ],
+                    [
+                        17,
+                        27,
+                        "EVENT"
+                    ],
+                    [
+                        46,
+                        58,
+                        "LOCATION"
+                    ],
+                    [
+                        62,
+                        72,
+                        "TIME"
+                    ],
+                    [
+                        90,
+                        132,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Need Help!  vehicles literally floating in flood water in Queens, New York City\r",
+            {
+                "entities": [
+                    [
+                        43,
+                        48,
+                        "EVENT"
+                    ],
+                    [
+                        58,
+                        79,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Reports of fire breaking out in Oita City after 6.6 magnitude earthquake strikes off Saiki Coast in Japan\r",
+            {
+                "entities": [
+                    [
+                        11,
+                        15,
+                        "EVENT"
+                    ],
+                    [
+                        32,
+                        41,
+                        "LOCATION"
+                    ],
+                    [
+                        48,
+                        61,
+                        "STATUS "
+                    ],
+                    [
+                        62,
+                        72,
+                        "EVENT"
+                    ],
+                    [
+                        85,
+                        105,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "An  earthquake with a magnitude of 6.6 jolted southwestern  Japan early on Saturday morning, injuring 13 people.\r",
+            {
+                "entities": [
+                    [
+                        4,
+                        14,
+                        "EVENT"
+                    ],
+                    [
+                        22,
+                        38,
+                        "STATUS "
+                    ],
+                    [
+                        46,
+                        65,
+                        "LOCATION"
+                    ],
+                    [
+                        93,
+                        111,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Flooding and  landslides in  Antananarivo,  Madagascar caused 65 thousand people to lose their homes. Then the  storm hit  Mozambique. Unfortunately, 49 people were injured.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "EVENT"
+                    ],
+                    [
+                        14,
+                        24,
+                        "EVENT"
+                    ],
+                    [
+                        29,
+                        54,
+                        "LOCATION"
+                    ],
+                    [
+                        62,
+                        101,
+                        "STATUS "
+                    ],
+                    [
+                        112,
+                        117,
+                        "EVENT"
+                    ],
+                    [
+                        123,
+                        134,
+                        "LOCATION"
+                    ],
+                    [
+                        148,
+                        172,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "20 dead,thousands displaced in  Manipur NE  India due to flash  floods  landslides in area\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        27,
+                        "STATUS "
+                    ],
+                    [
+                        32,
+                        49,
+                        "LOCATION"
+                    ],
+                    [
+                        57,
+                        82,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "At least 25 people died in three  Mumbai suburbs when several houses collapsed after  landslides triggered by heavy rain, local officials said on Sunday.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        23,
+                        "STATUS "
+                    ],
+                    [
+                        34,
+                        48,
+                        "LOCATION"
+                    ],
+                    [
+                        54,
+                        78,
+                        "STATUS "
+                    ],
+                    [
+                        86,
+                        96,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Landslide in kerala,s munnar (Idduki) villages 5 dead 10 rescued, And others under in mud say by local officals\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "EVENT"
+                    ],
+                    [
+                        13,
+                        37,
+                        "LOCATION"
+                    ],
+                    [
+                        47,
+                        89,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "More than 200 killed and at least 2 million others displaced as  floods and  landslides swept across parts of  India  Nepal  Bangladesh\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        60,
+                        "STATUS "
+                    ],
+                    [
+                        65,
+                        71,
+                        "EVENT"
+                    ],
+                    [
+                        77,
+                        87,
+                        "EVENT"
+                    ],
+                    [
+                        111,
+                        135,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mizoram cut off from the rest of  India after  landslides block the National Highway 54\r",
+            {
+                "entities": [
+                    [
+                        47,
+                        57,
+                        "EVENT"
+                    ],
+                    [
+                        68,
+                        87,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "A total of 36 people died in the district due to  landslides, 32 of them died in Talai and 4 in Sakhar Sutar Wadi. 30 people trapped: Nidhi Chaudhary, District Collector\r",
+            {
+                "entities": [
+                    [
+                        11,
+                        28,
+                        "STATUS "
+                    ],
+                    [
+                        50,
+                        60,
+                        "EVENT"
+                    ],
+                    [
+                        62,
+                        132,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "At least 46 people dead after heavy rains trigger  landslides in W.  Myanmar\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        23,
+                        "STATUS "
+                    ],
+                    [
+                        51,
+                        61,
+                        "EVENT"
+                    ],
+                    [
+                        65,
+                        76,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "terrible flooding and landslides in  Machupicchu.\r",
+            {
+                "entities": [
+                    [
+                        9,
+                        17,
+                        "EVENT"
+                    ],
+                    [
+                        22,
+                        32,
+                        "EVENT"
+                    ],
+                    [
+                        37,
+                        48,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "19 people lose their lives as heavy  Rainfall &  Landslides, in  Merida,  Venenzuela\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        26,
+                        "STATUS "
+                    ],
+                    [
+                        30,
+                        45,
+                        "EVENT"
+                    ],
+                    [
+                        49,
+                        59,
+                        "EVENT"
+                    ],
+                    [
+                        65,
+                        84,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "A 6.4 magnitude  earthquake near the Kermadec Islands\r",
+            {
+                "entities": [
+                    [
+                        2,
+                        15,
+                        "STATUS "
+                    ],
+                    [
+                        17,
+                        27,
+                        "EVENT"
+                    ],
+                    [
+                        37,
+                        53,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "6.6  earthquake just reported by USGS. South Pacific, Kermadec Islands off New Zealand\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        3,
+                        "STATUS "
+                    ],
+                    [
+                        5,
+                        15,
+                        "EVENT"
+                    ],
+                    [
+                        54,
+                        86,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "A strong earthquake in different parts of Balochistan killed at least 20 people and injured more than 300 others early Thursday morning.\r",
+            {
+                "entities": [
+                    [
+                        9,
+                        19,
+                        "EVENT"
+                    ],
+                    [
+                        42,
+                        53,
+                        "LOCATION"
+                    ],
+                    [
+                        54,
+                        112,
+                        "STATUS "
+                    ],
+                    [
+                        113,
+                        135,
+                        "TIME"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Earthquake tremors were felt in  Karachi on Wednesday, according to the  Pakistan Meteorological Department (PMD). Tremors were felt in Gulshan-e-Iqbal, Gulistan-e-Jauhar, Malir Cantt, Scheme 33, and I.I. Chundrigarh road, among other areas\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EVENT"
+                    ],
+                    [
+                        33,
+                        40,
+                        "LOCATION"
+                    ],
+                    [
+                        73,
+                        81,
+                        "LOCATION"
+                    ],
+                    [
+                        136,
+                        151,
+                        "LOCATION"
+                    ],
+                    [
+                        153,
+                        170,
+                        "LOCATION"
+                    ],
+                    [
+                        172,
+                        183,
+                        "LOCATION"
+                    ],
+                    [
+                        205,
+                        216,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "A 5.9 magnitude  earthquake hit the Quetta Balochistan today early morning in which dozens of people lost their lives while hundreds are injured.Very sad to hear about the Earthquake & loss..Condolences and prayer for quick recovery of injured..\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        15,
+                        "STATUS "
+                    ],
+                    [
+                        17,
+                        27,
+                        "EVENT"
+                    ],
+                    [
+                        36,
+                        54,
+                        "LOCATION"
+                    ],
+                    [
+                        84,
+                        149,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Earthquake jolts Harnai & other parts of  balochistan 20 Dead, more than 200 injured .\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        10,
+                        "EVENT"
+                    ],
+                    [
+                        17,
+                        53,
+                        "LOCATION"
+                    ],
+                    [
+                        54,
+                        84,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            " 4.5 earthquake in San Fernando, California  earthquake\r",
+            {
+                "entities": [
+                    [
+                        1,
+                        4,
+                        "STATUS "
+                    ],
+                    [
+                        5,
+                        15,
+                        "EVENT"
+                    ],
+                    [
+                        19,
+                        43,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Two  earthquakes have struck southern  Spain near the town of Lorca. There have been at least 10 people confirmed dead.\r",
+            {
+                "entities": [
+                    [
+                        5,
+                        16,
+                        "EVENT"
+                    ],
+                    [
+                        29,
+                        68,
+                        "LOCATION"
+                    ],
+                    [
+                        85,
+                        118,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Rare  earthquakes strike southern  Spain killing at least 10, injuring dozens. Epicenter near the town of  Lorca.\r",
+            {
+                "entities": [
+                    [
+                        6,
+                        17,
+                        "EVENT"
+                    ],
+                    [
+                        25,
+                        40,
+                        "LOCATION"
+                    ],
+                    [
+                        41,
+                        78,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            " Two  earthquakes of magnitudes 4.4 and 5.2 hit SE  Spain, killing at least 7 & injuring dozens     more\r",
+            {
+                "entities": [
+                    [
+                        6,
+                        17,
+                        "EVENT"
+                    ],
+                    [
+                        21,
+                        43,
+                        "STATUS "
+                    ],
+                    [
+                        48,
+                        57,
+                        "LOCATION"
+                    ],
+                    [
+                        59,
+                        104,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "A new afteshock of 2,9 felt in Lorca  Spain after two  earthquakes of 4,1 and 5,1. 8 people dead, at least 2 severly injured.\r",
+            {
+                "entities": [
+                    [
+                        6,
+                        15,
+                        "EVENT"
+                    ],
+                    [
+                        19,
+                        22,
+                        "STATUS "
+                    ],
+                    [
+                        28,
+                        43,
+                        "LOCATION"
+                    ],
+                    [
+                        55,
+                        66,
+                        "EVENT"
+                    ],
+                    [
+                        70,
+                        82,
+                        "STATUS "
+                    ],
+                    [
+                        83,
+                        124,
+                        "STATUS "
+                    ]
+                ]
+            }
+        ],
+        [
+            "2 killed, almost 850,000 people evacuated as record rains cause  floods in southern\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        41,
+                        "STATUS "
+                    ],
+                    [
+                        65,
+                        71,
+                        "EVENT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Intercepted this Tornado NW of Benjamin,  Texas earlier\r",
+            {
+                "entities": [
+                    [
+                        17,
+                        24,
+                        "EVENT"
+                    ],
+                    [
+                        25,
+                        47,
+                        "LOCATION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "",
+            {
+                "entities": []
+            }
+        ]
+    ]
+}
